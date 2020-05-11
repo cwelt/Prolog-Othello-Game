@@ -1,5 +1,7 @@
 # Prolog-Othello-Game 
-<img src=https://www.swi-prolog.org/icons/swipl.png> SWI-Prolog alt="SWI-Prolog Logo" height="2px" width="3"/>
+![SWI-Prolog logo](https://www.swi-prolog.org/icons/swipl.png)
+![Othello-game](https://previews.123rf.com/images/norgal/norgal1310/norgal131000056/22617956-closeup-discs-on-green-reversi-board-othello-.jpg)
+
 
 ## Description 
 [Othello Game](https://en.wikipedia.org/wiki/Reversi#Othello) :chess_pawn: Implemented with [Alpha-Beta Algorithm](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) in [SWI-Prolog's](https://www.swi-prolog.org/) Logic Programming Language. 
