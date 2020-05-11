@@ -5,6 +5,7 @@
 ## Description 
 [Othello Game](https://en.wikipedia.org/wiki/Reversi#Othello) :chess_pawn: Implemented with [Alpha-Beta Algorithm](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) in [SWI-Prolog's](https://www.swi-prolog.org/) Logic Programming Language. 
 The AI engine alpha-beta algorithm is based on heuristics such as capturing cornes & number of overall captured pieces. 
+
 ![SWI-Prolog logo](https://www.swi-prolog.org/icons/swipl.png)
 
 
