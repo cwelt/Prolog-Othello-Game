@@ -3,7 +3,7 @@
 
 
 ## Description 
-[Othello Game](https://en.wikipedia.org/wiki/Reversi#Othello) :chess_pawn: Implemented with [Alpha-Beta Algorithm](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) in [SWI-Prolog's](https://www.swi-prolog.org/) Logic Programming Language. 
+[Othello Game](https://en.wikipedia.org/wiki/Reversi#Othello) Implemented with [Alpha-Beta Algorithm](https://en.wikipedia.org/wiki/Alpha%E2%80%93beta_pruning) in [SWI-Prolog's](https://www.swi-prolog.org/) Logic Programming Language. 
 The AI engine alpha-beta algorithm is based on heuristics such as capturing cornes & number of overall captured pieces. 
 
 ![SWI-Prolog logo](https://www.swi-prolog.org/icons/swipl.png)
@@ -14,7 +14,7 @@ The AI engine alpha-beta algorithm is based on heuristics such as capturing corn
 * Play Against Computer (Human vs AI) :technologist:
 * Watch Computer vs Computer (AI vs AI) :desktop_computer: :computer:
 
-### Difficulty level 
+### Difficulty level  :chess_pawn:
 This is relevant of course only when playing against the computer (and not when watching computer against computer). 
 The difficulty level is influenced by means such as the depth level of the search algorithm & the heuristics taken into account. 
 
